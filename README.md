@@ -16,12 +16,12 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack                                                              
 
-**Languages**
+**Languages**                                                       **Frameworks & Tools**
 
-* C++
-* JavaScript
+* C++                                                               * React
+* JavaScript                                                        * Node.js
 * Python
 * HTML / CSS
 
