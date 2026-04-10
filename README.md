@@ -18,10 +18,10 @@
 
 ## 🛠️ Tech Stack                                                              
 
-**Languages**                                                       **Frameworks & Tools**
+**Languages**                                            
 
-* C++                                                               * React
-* JavaScript                                                        * Node.js
+* C++                                                              
+* JavaScript                                                       
 * Python
 * HTML / CSS
 
