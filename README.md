@@ -1,6 +1,6 @@
 # Hi 👋, I'm Parth Maheshwari
 
-🎓 6th Semester Engineering Student
+🎓 7th Semester Engineering Student
 💻 Passionate about Software Development & Problem Solving
 🚀 Currently improving my skills in **Data Structures & Algorithms and Full Stack Development**
 
